@@ -1,0 +1,10 @@
+Padrão de projeto Factory
+Uma das vantagens de usar esse padrão de projeto é facilitar o crescimento do código.
+
+Artigos em português:
+
+1-https://pt.wikipedia.org/wiki/Factory_Method - protugues
+2-https://www.thiengo.com.br/padrao-de-projeto-factory-method
+3-https://sourcemaking.com/design_patterns/factory_method
+4-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Factory.html
+
